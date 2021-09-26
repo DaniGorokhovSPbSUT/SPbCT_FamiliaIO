@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPbCT_FamiliaIO", "SPbCT_FamiliaIO\SPbCT_FamiliaIO.vcxproj", "{43839E3E-604A-481F-9936-D2D67F26BFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43839E3E-604A-481F-9936-D2D67F26BFAE}.Debug|x64.ActiveCfg = Debug|x64
+		{43839E3E-604A-481F-9936-D2D67F26BFAE}.Debug|x64.Build.0 = Debug|x64
+		{43839E3E-604A-481F-9936-D2D67F26BFAE}.Debug|x86.ActiveCfg = Debug|Win32
+		{43839E3E-604A-481F-9936-D2D67F26BFAE}.Debug|x86.Build.0 = Debug|Win32
+		{43839E3E-604A-481F-9936-D2D67F26BFAE}.Release|x64.ActiveCfg = Release|x64
+		{43839E3E-604A-481F-9936-D2D67F26BFAE}.Release|x64.Build.0 = Release|x64
+		{43839E3E-604A-481F-9936-D2D67F26BFAE}.Release|x86.ActiveCfg = Release|Win32
+		{43839E3E-604A-481F-9936-D2D67F26BFAE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A01096B-B9EC-44AB-B6B2-896CB6EBCBDC}
+	EndGlobalSection
+EndGlobal
