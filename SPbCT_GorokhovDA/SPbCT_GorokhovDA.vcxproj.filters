@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SPbCT_FamiliaIO.cpp">
+    <ClCompile Include="SPbCT_GorokhovDA.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

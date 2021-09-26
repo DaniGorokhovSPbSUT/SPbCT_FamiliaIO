@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{43839e3e-604a-481f-9936-d2d67f26bfae}</ProjectGuid>
-    <RootNamespace>SPbCTFamiliaIO</RootNamespace>
+    <ProjectGuid>{0b1c3be9-5a5d-4da5-8b4c-189a43702dd8}</ProjectGuid>
+    <RootNamespace>SPbCTGorokhovDA</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="SPbCT_FamiliaIO.cpp" />
+    <ClCompile Include="SPbCT_GorokhovDA.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
