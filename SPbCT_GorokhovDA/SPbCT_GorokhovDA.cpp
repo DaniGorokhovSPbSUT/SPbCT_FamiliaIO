@@ -1,15 +1,37 @@
-﻿// SPbCT_GorokhovDA.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
+﻿#include <iostream>
 
-#include <iostream>
+// Подключения заголовочного файла с описанием класса Time
+#include "Time.h"
+// Подключение файлов для Triangle (Triangle & Point)
+#include "Point.h"
+#include "Triangle.h"
+
+using namespace std;
+
+int Menu();
+int GetNumber(int, int);
+void ExitBack();
+void Show(Triangle* [], int);
+void Move(Triangle* [], int);
+void FindMax(Triangle* [], int);
+void IsIncluded(Triangle* [], int);
+
+// Инициализация глобальных переменных
+int Triangle::count;
+// Для числовой переменной, объявленной вне функций начальным значением будет 0.
 
 int main()
 {
-    std::cout << "Hello World!\n";
-}
+    // Пример кода с использованием класса Time.
+    Time t;
+    t.setTime(16, 18, 20);
+    t.printMilitary();
+    cout << endl;
+    t.printStandard();
+    cout << endl;
 
-// Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
-// Отладка программы: F5 или меню "Отладка" > "Запустить отладку"
+    cout << Triangle::count;
+}
 
 // Советы по началу работы 
 //   1. В окне обозревателя решений можно добавлять файлы и управлять ими.
