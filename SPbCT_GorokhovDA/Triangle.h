@@ -5,7 +5,7 @@
 class Triangle {
 public:
 	Triangle(Point _v1, Point _v2, Point _v3, const char* id);
-	Triangle(const char*);
+	Triangle(const char* id);
 	~Triangle();
 	Point Get_v1() const;
 	Point Get_v2() const;
@@ -15,7 +15,7 @@ public:
 	void ShowSideAndArea() const;
 	static int count;
 private:
-	char* objId;
+	const char* objId;
 	char* name;
 	Point v1, v2, v3;
 	double a, b, c;
