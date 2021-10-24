@@ -1,0 +1,5 @@
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\dir17\Debug\Ijwhost.dll
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\dir17\Debug\dir17.deps.json
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\dir17\Debug\dir17.runtimeconfig.json
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\dir17\dir17\Debug\dir17.vcxprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\dir17\dir17\Debug\dir17.genruntimeconfig.cache

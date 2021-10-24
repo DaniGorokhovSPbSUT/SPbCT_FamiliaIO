@@ -1,0 +1,3 @@
+﻿  lab18.cpp
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\lab18\lab18\lab18.cpp(80,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPVOID"
+  lab18.vcxproj -> C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\lab18\Debug\lab18.exe

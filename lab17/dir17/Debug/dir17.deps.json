@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0": {
+      "dir17/1.0.0": {
+        "runtime": {
+          "dir17.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dir17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
