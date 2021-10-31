@@ -1,0 +1,7 @@
+﻿  MathLib.cpp
+C:\Users\igorg\source\repos\laba20\laba20\MathLib.cpp(8,2): warning C4273: MathFuncs::MyMathFuncs::Per: несовместимое связывание dll
+C:\Users\igorg\source\repos\laba20\laba20\MathLib.h(16,34): message : см. предыдущее определение "Per"
+C:\Users\igorg\source\repos\laba20\laba20\MathLib.cpp(17,2): warning C4273: MathFuncs::MyMathFuncs::Square: несовместимое связывание dll
+C:\Users\igorg\source\repos\laba20\laba20\MathLib.h(15,34): message : см. предыдущее определение "Square"
+     Создается библиотека C:\Users\igorg\source\repos\laba20\Debug\laba20.lib и объект C:\Users\igorg\source\repos\laba20\Debug\laba20.exp
+  laba20.vcxproj -> C:\Users\igorg\source\repos\laba20\Debug\laba20.dll

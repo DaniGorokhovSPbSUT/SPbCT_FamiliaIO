@@ -1,0 +1,5 @@
+﻿MyExecRefsDll.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static double __cdecl MathFuncs::MyMathFuncs::Add(double,double)" (__imp_?Add@MyMathFuncs@MathFuncs@@SANNN@Z) в функции _main.
+MyExecRefsDll.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static double __cdecl MathFuncs::MyMathFuncs::Subtract(double,double)" (__imp_?Subtract@MyMathFuncs@MathFuncs@@SANNN@Z) в функции _main.
+MyExecRefsDll.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static double __cdecl MathFuncs::MyMathFuncs::Multiply(double,double)" (__imp_?Multiply@MyMathFuncs@MathFuncs@@SANNN@Z) в функции _main.
+MyExecRefsDll.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static double __cdecl MathFuncs::MyMathFuncs::Divide(double,double)" (__imp_?Divide@MyMathFuncs@MathFuncs@@SANNN@Z) в функции _main.
+C:\Users\Daniil\source\repos\MathFuncsDll\Debug\MyExecRefsDll.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
