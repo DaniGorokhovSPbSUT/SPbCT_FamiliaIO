@@ -1,0 +1,7 @@
+﻿  lab22.c
+C:\Users\Daniil\source\repos\lab22\lab22\lab22.c(31,15): warning C4013: fork: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Daniil\source\repos\lab22\lab22\lab22.c(37,14): warning C4013: sleep: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Daniil\source\repos\lab22\lab22\lab22.c(38,13): warning C4013: wait: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Daniil\source\repos\lab22\lab22\lab22.c(17,12): error C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\Users\Daniil\source\repos\lab22\lab22\lab22.c(33,9): error C4996: 'execvp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _execvp. See online help for details.
+C:\Users\Daniil\source\repos\lab22\lab22\lab22.c(36,9): error C4996: 'execvp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _execvp. See online help for details.
