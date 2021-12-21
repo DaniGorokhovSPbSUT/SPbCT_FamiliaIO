@@ -411,7 +411,7 @@ namespace CppCLRWinformsProjekt {
 		ctime_s(buffer, bufSize, &parsedDateTime);
 
 		ofilestream << "Горохов Даниил, группа 500\n";
-		ofilestream << buffer;
+		ofilestream << buffer << std::endl;
 
 		this->label2->Text = gcnew String(buffer);
 	}
