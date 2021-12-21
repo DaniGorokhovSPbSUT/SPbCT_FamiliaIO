@@ -1,0 +1,9 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPracticeWin\Form1.h(472,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPracticeWin\Form1.h(479,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPracticeWin\Form1.h(507,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPracticeWin\Form1.h(515,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPracticeWin\Form1.h(539,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPracticeWin\Form1.h(575,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  EducationalPracticeWin.vcxproj -> C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\Debug\EducationalPracticeWin.exe

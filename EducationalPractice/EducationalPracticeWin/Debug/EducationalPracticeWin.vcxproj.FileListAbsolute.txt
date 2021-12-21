@@ -1,0 +1,3 @@
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPracticeWin\Debug\EducationalPracticeWin.Form1.resources
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPracticeWin\Debug\EducationalPracticeWin.vcxproj.GenerateResource.cache
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPracticeWin\Debug\EducationalPracticeWin.vcxprojAssemblyReference.cache

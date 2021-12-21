@@ -2,7 +2,6 @@
 #include <string>
 #include <random>
 #include <vector>
-#include <algorithm>
 #include "StringsDll.h"
 
 namespace StringsFunc
@@ -13,18 +12,12 @@ namespace StringsFunc
 
 		int length = source.length();
 
-		std::random_device dev;
-		std::mt19937 rng(dev());
-		std::uniform_int_distribution<std::mt19937::result_type> dist(1, length - 1);
-
 		std::vector<int> ixs;
 
-		for (int i = 0; i < 8; i += 1) {
-			ixs.push_back(dist(rng));
+		for (int i = 0; i < 10; i += 1) {
+			ixs.push_back(i * 10);
 		}
 		ixs.push_back(length);
-
-		std::sort(ixs.begin(), ixs.end());
 
 		int prevIx = 0;
 		auto it = ixs.begin();
